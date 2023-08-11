@@ -1,0 +1,7 @@
+# Ignore specific folders
+/extract/
+/papers/
+/summary/
+
+# Ignore specific file
+.env
